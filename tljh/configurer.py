@@ -32,7 +32,7 @@ default = {
         'cpu': None,
     },
     'http': {
-        'port': 80,
+        'port': 8000,
     },
     'https': {
         'enabled': False,
